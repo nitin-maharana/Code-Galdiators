@@ -1,4 +1,8 @@
-
+/*
+ * Written by Nitin Kumar Maharana
+ * nitin.maharana@gmail.com
+ */
+ 
 int appearanceCount(int input1,int input2,char* input3,char* input4)
     {
         static int gylph[128], seq[128];
