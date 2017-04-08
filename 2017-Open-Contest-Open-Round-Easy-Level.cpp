@@ -1,4 +1,8 @@
-
+/*
+ * Written by Nitin Kumar Maharana
+ * nitin.maharana@gmail.com
+ */
+ 
 int GetJumpCount(int input1,int input2,int input3_size, int* input3)
     {
         int result = 0, i, temp;
